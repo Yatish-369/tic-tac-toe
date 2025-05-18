@@ -18,6 +18,8 @@ CSS for styling
 
 JavaScript for game logic
 
+Here's how the game looks like - 
+
 <img width="906" alt="Screenshot 2025-04-05 021659" src="https://github.com/user-attachments/assets/7435d93a-6a40-45da-90a4-d20504021fd1" />
 <img width="910" alt="Screenshot 2025-04-05 021717" src="https://github.com/user-attachments/assets/57aced7c-53c4-4344-9784-a47126d17e81" />
 
